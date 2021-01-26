@@ -1,5 +1,6 @@
 {
 	"nama":"adi",
 	"umur": 22,
-	"muda": true
+	"muda": true,
+	"ma": [1,2,3,4] 
 }
